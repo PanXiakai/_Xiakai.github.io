@@ -9,9 +9,7 @@ catalog:	true
 tags:					
     - 日常记录
 ---
-
-# Hey 
-- 这是我的第一篇有内容的博客
+> 这是我的第一篇有内容的博客
 
 # Solved Problem
 1. `_config.yml`中的缩进问题：`tags`下若使用`Tab`而非`空格`将导致段首的相关信息无法生成信息表格（见`Preview changes`），需要使用四个`空格`来完成缩进。
