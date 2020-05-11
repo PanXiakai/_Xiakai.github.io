@@ -7,7 +7,7 @@ author:		Xiakai
 header-img:	img/first-post.jpg	
 catalog:	true			
 tags:					
-	- 日常记录
+    - 日常记录
 ---
 ## Hey
 >这是我的第一篇博客（伪 >_<)
