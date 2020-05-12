@@ -1,17 +1,17 @@
 ---
 layout:		post			
 title:		MIPS Assembly(1)
-subtitle:	`while` and `for` in MIPS; PC,`jr` and `jal` in procedure
+subtitle:	Loop in MIPS; PC, `jr` and jal in procedure
 date:		2020-05-12		
 author:		Xiakai
 header-img:	img/first-post.jpg	
 catalog:	true			
-tags:					
+tags:
     - MIPS
     - CS61C
 ---
 
- CS61C MIPS-Assembly-Language
+# CS61C MIPS-Assembly-Language
 
 ## Computer organization and Design
 
