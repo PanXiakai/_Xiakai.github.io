@@ -1,7 +1,7 @@
 ---
 layout:		post			
 title:		MIPS Assembly(1)
-subtitle:	Loop in MIPS; PC, `jr` and jal in procedure
+subtitle:	Loop in MIPS, 'jr' and 'jal' instruction in procedure
 date:		2020-05-12		
 author:		Xiakai
 header-img:	img/home-bg-art.jpg	
