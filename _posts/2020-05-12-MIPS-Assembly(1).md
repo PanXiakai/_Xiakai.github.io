@@ -4,7 +4,7 @@ title:		MIPS Assembly(1)
 subtitle:	Loop in MIPS; PC, `jr` and jal in procedure
 date:		2020-05-12		
 author:		Xiakai
-header-img:	img/first-post.jpg	
+header-img:	img/home-bg-art.jpg	
 catalog:	true			
 tags:
     - MIPS
