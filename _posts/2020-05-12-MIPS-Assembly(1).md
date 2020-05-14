@@ -11,7 +11,7 @@ tags:
     - CS61C
 ---
 
-# CS61C MIPS-Assembly-Language
+> ## CS61C MIPS-Assembly-Language
 
 ## Computer organization and Design
 
@@ -64,3 +64,7 @@ with case statements, meaning an unconditional jump to the address specified in 
       4. 新建`Command`项，双击右侧窗口，填入路径和打开方式-`"path" "%1"`(for file)或`"path" "%V"`(for directory)。
    2. Tip: 在命令行获取可执行文件(.exe)路径的命令，*where _.exe*。
 3. Local enviroment for jekyll.
+
+## Experience
+
+1. _post下每个文件开头须有相关信息，且title和subtitle不能含有代码段。
