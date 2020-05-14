@@ -1,8 +1,15 @@
 ---
-author:Xiakai
-date:2020-05-12
-title:MIPS Assembly(2)
+layout: post
+author: Xiakai
+date: 2020-05-12
+title: MIPS Assembly(2)
 subtitle: mipsProcedure
+description: MIPS Procedure/Function
+header-img: img/first-post.jpg
+catalog:true
+tags:
+    - Assembly
+    - procedure/function
 ---
 
 ## CS61C MIPS-Assembly-Language

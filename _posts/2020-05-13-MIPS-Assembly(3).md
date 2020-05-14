@@ -1,9 +1,14 @@
 ---
+layout: post
 title: MIPS Assembly(3)
-subtitle:mipsStack(1)
+subtitle: mipsStack(1)
 author: Xiakai
 date: 2020-05-13
 description: MIPS Stack and Heap
+header-img: img/first-post.jpg
+tags:
+  - Assembly
+  - stack
 ---
 
 > CS61C Notes  
