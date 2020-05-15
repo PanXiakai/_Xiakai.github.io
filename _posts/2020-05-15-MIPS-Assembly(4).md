@@ -157,3 +157,7 @@ int fact (int n)
   ```MIPS ASM
         jr      $ra
   ```
+
+## Postscript
+
+- There are still some confusions about nested procedure. I will learn more example to master it.
