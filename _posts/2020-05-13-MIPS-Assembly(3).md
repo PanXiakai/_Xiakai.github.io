@@ -5,7 +5,7 @@ subtitle: mipsStack(1)
 author: Xiakai
 date: 2020-05-13
 description: MIPS Stack and Heap
-header-img: img/first-post.jpg
+header-img: img/home-bg-art.jpg
 tags:
   - Assembly
   - stack

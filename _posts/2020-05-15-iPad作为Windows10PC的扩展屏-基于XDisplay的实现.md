@@ -5,7 +5,7 @@ subtitle: 依赖于Splashtop Wired XDisplay的实现
 description: 屏幕扩展≠屏幕复制or远程控制
 author: Xiakai
 date: 2020-05-15
-header-img: img/first-post.jpg
+header-img: img/home-bg-art.jpg
 tags:
   - 日常记录
   - Windows10
